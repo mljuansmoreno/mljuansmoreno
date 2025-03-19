@@ -1,8 +1,8 @@
 ## Agent Dev /  Estudiante Ingeniería de Software
 
-Selección de algunos proyectos (privados) en el presente perfil: 
+Selección de algunos proyectos (privados y sujeto a modificaciones) en el presente perfil: 
 *(b = borrador)*
-Sujeto a modificaciones
+
 
 - AI-driven cybersecurity log analysis (b)
 - Cognitive tools for strategic institutional assistance (b)
