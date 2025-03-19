@@ -42,3 +42,5 @@ Selección de algunos proyectos (privados) en el presente perfil:
 - Social Media Agent Sketch (b) 
 - Tech Trend Tracker  (b)
 - Tool Use Langchain  (b)
+
+  Nota: Commits = actividad. Actividad 2024 actualizada posteriormente, fechas inexactas. Actividad 2021, existente pero no actualizada.
