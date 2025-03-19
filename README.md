@@ -1,6 +1,6 @@
 ## Agent Dev /  Estudiante Ingeniería de Software
 
-Selección de algunos proyectos (privados y sujeto a modificaciones) en el presente perfil: 
+Selección de algunos proyectos (privados y sujeto a modificaciones) en el presente perfil 
 *(b = borrador)*
 
 
