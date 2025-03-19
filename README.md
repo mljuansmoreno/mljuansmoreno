@@ -3,11 +3,11 @@
 Selección de algunos proyectos (privados) en el presente perfil: 
 *(b = borrador)*
 
-- AI-driven cybersecurity log analysis
-- Cognitive tools for strategic institutional assistance
-- Opportunity detection system with next-gen technologies
-- Agent-assisted custom market analysis
-- Real-time dynamic pricing multiagent detection system.
+- AI-driven cybersecurity log analysis (b)
+- Cognitive tools for strategic institutional assistance (b)
+- Opportunity detection system with next-gen technologies (b)
+- Agent-assisted custom market analysis (b)
+- Real-time dynamic pricing multiagent detection system. (b)
 - Aerodrone Colombia Versión Web  
 - Agents Webpage (b)  
 - Microagentes (b)
