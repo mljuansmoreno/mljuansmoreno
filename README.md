@@ -43,8 +43,9 @@ Selección de algunos proyectos (privados) en el presente perfil:
 - Tech Trend Tracker  (b)
 - Tool Use Langchain  (b)
 
-  Nota: Commits = actividad en software.
 
+
+<sub>Nota: Commits = actividad en software.</sub>
 <sub>Actividad 2024 actualizada posteriormente, fechas inexactas. Actividad 2022, existente pero no actualizada.</sub>
 
 
