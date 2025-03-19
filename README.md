@@ -19,7 +19,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Web Estrategia  
 - Gestión de Clientes de Asesoría Financiera  
 - Aerodrone Colombia - App Educativa de Drones con Jetpack Compose  
-- BDSQL  
+- BDSQL. Base de datos SQL  
 - Extractores  
 - Herramientas  
 - API de Inventario de Frutos Exóticos Colombianos    
