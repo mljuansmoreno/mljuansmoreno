@@ -45,5 +45,5 @@ Selección de algunos proyectos (privados) en el presente perfil:
 
   Nota: Commits = actividad en software.
 
-  <span style="font-size: 8px;">Actividad 2024 actualizada posteriormente, fechas inexactas. Actividad 2022, existente pero no actualizada.</span>
+  <span style="font-size: 5px;">Actividad 2024 actualizada posteriormente, fechas inexactas. Actividad 2022, existente pero no actualizada.</span>
 
