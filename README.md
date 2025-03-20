@@ -8,6 +8,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Cognitive tools for strategic institutional assistance (b)
 - Opportunity detection system with next-gen technologies (b)
 - Agent-assisted custom market analysis (b)
+- Real-time Value Proposition Detection System (b)
 - Aerodrone Colombia Versión Web  
 - Agents Webpage (b)  
 - Microagentes (b)
