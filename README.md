@@ -1,4 +1,4 @@
-[Hola! Gracias por clonar / descargar este repositorio. Te invito a visitarlo también directamente para una experiencia directa!]: #
+[Hola! Gracias por clonar / descargar este repositorio. Te invito a visitarlo también directamente para una experiencia en vivo!]: #
 
 ## Agent Dev /  Estudiante Ingeniería de Software
 
