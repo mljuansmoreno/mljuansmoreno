@@ -23,7 +23,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Extractores  
 - Herramientas  
 - API de Inventario de Frutos Exóticos Colombianos    
-- Arxiv Chat (b)
+- Arxiv Chat
 - Arxiv Trends (b)  
 - Class Finder  (b)
 - Coding Tutor  (b)
