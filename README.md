@@ -5,10 +5,10 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 *(b = borrador)*
 
 
-- AI-driven cybersecurity log analysis (b)
+- Advances in AI-driven log analysis for enhanced digital security (b)
 - Cognitive tools for strategic institutional assistance (b)
-- Opportunity detection system with next-gen technologies (b)
-- Agent-assisted custom market analysis 
+- Leveraging Advanced Technologies for Data-Driven insights (b)
+- Agent-assisted custom market analysis: A methodological exploration. 
 - Aerodrone Colombia Versión Web  
 - Agents Webpage (b)  
 - Microagentes (b)
