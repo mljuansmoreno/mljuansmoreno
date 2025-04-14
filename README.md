@@ -5,7 +5,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 *(b = borrador)*
 
 
-- Advances in AI-driven log analysis for enhanced digital security 
+- AI-driven log analysis for enhanced digital security 
 - Cognitive tools for strategic institutional assistance (b)
 - Leveraging Advanced Technologies for Data-Driven insights (b)
 - Agent-assisted custom market analysis: A methodological exploration. 
