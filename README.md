@@ -9,7 +9,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Cognitive tools for strategic institutional assistance (b)
 - Leveraging Advanced Technologies for Data-Driven insights (b)
 - Agent-assisted custom market analysis: A methodological exploration. 
-- Aerodrone Colombia Versión Web  
+- Aerodrone Colombia Versión Web  (año: 2023)
 - Agents Webpage (b)  
 - Microagentes (b)
 - Tutorial Legacy  
@@ -18,7 +18,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Enduro Bikes  
 - Web Estrategia  
 - Gestión de Clientes de Asesoría Financiera  
-- Aerodrone Colombia - App Educativa de Drones con Jetpack Compose  
+- Aerodrone Colombia - App Educativa de Drones con Jetpack Compose. (año: 2023)  
 - BDSQL. Base de datos SQL  
 - Extractores  
 - Herramientas  
