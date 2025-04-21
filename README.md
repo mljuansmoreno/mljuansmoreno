@@ -31,7 +31,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Contract Summary  (b)
 - Customer Agent Sketch (b)  
 - Email Finder  (b)
-- Financial Risk Agent Sketch  (b)
+- Financial Risk Agent Sketch 
 - Foresight Advisor Sketch  (b)  
 - Planning Langchain  (b)
 - Podcast Interview Finder (b)  
