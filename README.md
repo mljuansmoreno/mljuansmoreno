@@ -26,7 +26,6 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Arxiv Chat
 - Arxiv Trends (b)  
 - Class Finder  (b)
-- Coding Tutor  (b)
 - Competitive AI  (b)
 - Compliance Agent  (b)
 - Contract Summary  (b)
