@@ -11,7 +11,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Agent-assisted custom market analysis: A methodological exploration. 
 - Aerodrone Colombia Versión Web  (año: 2023)
 - Agents Webpage (b)  
-- Microagentes (b)
+- Microagentes 
 - Tutorial Legacy  
 - Gestión de Clientes  
 - Asesoría Financiera Spring Boot  
@@ -38,7 +38,6 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Podcast Summary  (b)
 - Product Finder  (b)
 - Reflection agent
-- Research Paper Finder  (b)
 - Tech Trend Tracker  (b)
 - Tool Use Langchain  (b)
 
