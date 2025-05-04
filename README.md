@@ -35,7 +35,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Foresight Advisor  
 - Planning Langchain  (b)
 - Podcast Interview Finder (b)  
-- Podcast Summary  (b)
+- Podcast Summary  
 - Product Finder  (b)
 - Reflection agent
 - Tech Trend Tracker  (b)
