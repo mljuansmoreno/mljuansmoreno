@@ -26,7 +26,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Arxiv Chat
 - Arxiv Trends (b)  
 - Class Finder  (b)
-- Competitive AI  (b)
+- Latest AI news
 - Compliance Agent  (b)
 - Contract Summary  (b)
 - Customer Agent Sketch (b)  
