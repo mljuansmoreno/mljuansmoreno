@@ -24,7 +24,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Herramientas  
 - API de Inventario de Frutos Exóticos Colombianos    
 - Arxiv Chat
-- Arxiv Trends (b)  
+- Arxiv Trends  
 - Class Finder  (b)
 - Latest AI news
 - Compliance Agent  (b)
