@@ -38,7 +38,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Podcast Summary  
 - Product Finder  (b)
 - Reflection agent
-- Tech Trend Tracker  (b)
+- Tech Trend Tracker 
 - Tool Use Langchain  (b)
 
 
