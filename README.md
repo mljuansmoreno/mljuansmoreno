@@ -27,7 +27,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Arxiv Trends  
 - Course Finder  (b)
 - Latest AI news
-- Compliance Agent  (b)
+- Compliance Agent 
 - Contract Summary  (b)
 - Customer Agent Sketch (b)  
 - Email Finder  (b)
