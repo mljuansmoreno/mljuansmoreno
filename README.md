@@ -33,7 +33,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Email Finder  (b)
 - Financial Risk Agent Sketch 
 - Foresight Advisor  
-- Planning Langchain  (b)
+- Planning Langchain 
 - Podcast Interview Finder (b)  
 - Podcast Summary  
 - Product Finder  (b)
