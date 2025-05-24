@@ -30,7 +30,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Compliance Agent 
 - Contract Summary  (b)
 - Customer Agent Sketch (b)  
-- Email Finder  (b)
+- Email Finder  
 - Financial Risk Agent Sketch 
 - Foresight Advisor  
 - Planning Langchain 
