@@ -29,7 +29,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Latest AI news
 - Compliance Agent 
 - Contract Summary  (b)
-- Customer Agent Sketch (b)  
+- Customer Agent Sketch 
 - Email Finder  
 - Financial Risk Agent Sketch 
 - Foresight Advisor  
