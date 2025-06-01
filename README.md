@@ -39,7 +39,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Product Finder  (b)
 - Reflection agent
 - Tech Trend Tracker 
-- Tool Use Langchain  (b)
+- Tool Use Langchain 
 
 
 
