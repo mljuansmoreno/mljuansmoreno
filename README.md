@@ -34,7 +34,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Financial Risk Agent Sketch 
 - Foresight Advisor  
 - Planning Langchain 
-- Podcast Interview Finder (b)  
+- Podcast Interview Finder  
 - Podcast Summary  
 - Product Finder  (b)
 - Reflection agent
