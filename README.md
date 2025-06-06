@@ -36,7 +36,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Planning Langchain 
 - Podcast Interview Finder  
 - Podcast Summary  
-- Product Finder  (b)
+- Book finders
 - Reflection agent
 - Tech Trend Tracker 
 - Tool Use Langchain 
