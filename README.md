@@ -28,7 +28,7 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Course Finder  (b)
 - Latest AI news
 - Compliance Agent 
-- Privacy policy simplifier  (b)
+- Privacy policy simplifier 
 - Customer Agent Sketch 
 - Email Finder  
 - Financial Risk Agent Sketch 
