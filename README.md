@@ -6,8 +6,8 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 
 
 - AI-driven log analysis for enhanced digital security 
-- Cognitive tools for strategic institutional assistance (b)
-- Leveraging Advanced Technologies for Data-Driven insights (b)
+- Cognitive tools for strategic institutional assistance 
+- Leveraging Advanced Technologies for Data-Driven insights 
 - Agent-assisted custom market analysis: A methodological exploration. 
 - Aerodrone Colombia Versión Web  (año: 2023)
 - Agents Webpage (b)  
