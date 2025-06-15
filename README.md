@@ -1,8 +1,7 @@
 
 ## Agent Dev /  Estudiante Ingeniería de Software
 
-Selección de algunos proyectos (privados y sujeto a modificaciones) en el presente perfil 
-*(b = borrador)*
+Selección de algunos proyectos (privados) en el presente perfil 
 
 
 - AI-driven log analysis for enhanced digital security 
@@ -10,7 +9,6 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - Leveraging Advanced Technologies for Data-Driven insights 
 - Agent-assisted custom market analysis: A methodological exploration. 
 - Aerodrone Colombia Versión Web  (año: 2023)
-- Agents Webpage (b)  
 - Microagentes 
 - Tutorial Legacy  
 - Gestión de Clientes  
@@ -25,7 +23,6 @@ Selección de algunos proyectos (privados y sujeto a modificaciones) en el prese
 - API de Inventario de Frutos Exóticos Colombianos    
 - Arxiv Chat
 - Arxiv Trends  
-- Course Finder  (b)
 - Latest AI news
 - Compliance Agent 
 - Privacy policy simplifier 
